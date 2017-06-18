@@ -1,0 +1,10 @@
+name = Open Signal PCM Create Users
+description = This module creates drupal user accounts based on existing CiviCRM contact records based on various factors (group, activity, etc.)
+
+core = 7.x
+package = Open Signal PCM Community Media Advanced
+version = 7.x-1.0
+project = "pcm_create_users"
+project_status_url = https://github.com/cm-advanced/pcm_create_users
+
+
